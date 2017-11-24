@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "225890747241",
+    "firebase_url": "https://pickmenow-48cfc.firebaseio.com",
+    "project_id": "pickmenow-48cfc",
+    "storage_bucket": "pickmenow-48cfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225890747241:android:232e3cb0e30585b2",
+        "android_client_info": {
+          "package_name": "bornbaby.com.pickmenow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225890747241-mvaf7o8qguu64vdpbd8i70b0blbp1n8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ0KH33Y_-Yo8JEJ_2I9gsbWXb-FTIfe0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

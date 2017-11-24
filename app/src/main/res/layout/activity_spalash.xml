@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="bornbaby.com.pickmenow.activity.SpalashActivity">
+
+    <ImageView
+        android:id="@+id/background_one"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="fitXY"
+        android:src="@drawable/plant" />
+
+    <ImageView
+        android:id="@+id/background_two"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="fitXY"
+        android:src="@drawable/plant" />
+
+    <ImageView
+        android:id="@+id/iv_bottom"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_gravity="bottom|center_horizontal"
+        android:src="@drawable/carpink" />
+
+</FrameLayout>
